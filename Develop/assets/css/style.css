@@ -9,6 +9,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/*Header Begins*/
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -47,10 +48,10 @@ header nav ul li {
 }
 
 header nav ul li a {
-    display: inline-block;
     margin-left: 25px;
     
 }
+/*Header Ends*/
 
 p {
     font-size: 16px;
@@ -130,13 +131,16 @@ p {
 }
 /*Benefits End*/
 
-.footer {
+
+/*Footer Begins*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
+/*Footer Ends*/
