@@ -13,6 +13,10 @@ Direct Website URL: https://mtornabene05.github.io/Horiseon/
 Repository URL: https://github.com/mtornabene05/Horiseon.git
 
 ## Screenshot
+This is a screenshot of screen at initial deployment.
+
+![Web Screenshot](./assets/images/capture.png)
+
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Maria Tornabene
