@@ -15,7 +15,7 @@ Repository URL: https://github.com/mtornabene05/Horiseon.git
 ## Screenshot
 This is a screenshot of screen at initial deployment.
 
-![Web Screenshot](./assets/images/capture.png)
+<img src="./assets/images/capture.png" alt="">
 
 
 ## Contribution
